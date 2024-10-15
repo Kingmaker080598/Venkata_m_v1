@@ -1,8 +1,22 @@
-# React + Vite
+Prerequisites
+Make sure you have Node.js installed on your machine.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Installation
+Clone the repository:
 
-Currently, two official plugins are available:
+git clone https://github.com/trixtertrap/Portfolio.git
+Navigate to the project directory:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+cd Portfolio
+Install the dependencies:
+
+npm install
+Start the development server:
+
+npm run dev
+Open your browser and go to http://localhost:port number to see the website.
+
+🛠 Built With
+React - Frontend library for building user interfaces
+Vite - Next-generation frontend tooling for development and bundling
+Node.js - Backend runtime environment
